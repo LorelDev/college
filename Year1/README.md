@@ -1,10 +1,20 @@
-# Year 1 – College Projects
+# Year 1 – Computer Science 🎓
 
-This folder contains all assignments and projects from my first year of 
-computer science studies.
+This folder contains all my programming projects and assignments from the first year of my Computer Science degree.
 
-## 📁 Assignment_2025-04-03
-Java intro project, includes basic syntax and structure.
+## 📁 Projects
 
-# college
-All my college projects and assignments
+- `Assignment_2025-04-05`: Java intro project – classes, loops, and basics (submitted on April 5, 2025)
+
+## 🧰 Tools & Skills
+
+- Java
+- Eclipse IDE
+- Git & GitHub
+- Object-Oriented Programming
+- Terminal & Version Control
+
+---
+
+👨‍💻 Author: Ori Asher  
+📅 Academic Year: 2024–2025  
