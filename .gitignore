@@ -1,3 +1,95 @@
+# macOS system files
 .DS_Store
-*/.DS_Store
-**/.DS_Store
+
+# Java class files
+*.class
+
+# Eclipse project files
+# macOS system files
+.DS_Store
+
+# Java class files
+*.class
+
+# Eclipse project files
+.settings/
+.classpath
+.project
+bin/
+
+# IntelliJ project files (if you ever use IntelliJ)
+.idea/
+*.iml
+out/
+
+# Log files and temp
+*.log
+*.tmp
+
+# Environment and security files
+.env
+*.key
+*.pem
+# macOS system files
+.DS_Store
+
+# Java class files
+*.class
+
+# Eclipse project files
+.settings/
+.classpath
+.project
+bin/
+
+# IntelliJ project files (if you ever use IntelliJ)
+.idea/
+*.iml
+out/
+
+# Log files and temp
+*.log
+*.tmp
+
+# Environment and security files
+.env
+*.key
+*.pem
+# macOS system files
+.DS_Store
+
+# Java class files
+*.class
+
+# Eclipse project files
+.settings/
+.classpath
+.project
+bin/
+
+
+# Log files and temp
+*.log
+*.tmp
+
+# macOS system files
+.DS_Store
+
+# Java class files
+*.class
+
+# Eclipse project files
+.settings/
+.classpath
+.project
+bin/
+
+
+# Log files and temp
+*.log
+*.tmp
+
+# Environment and security files
+.env
+*.key
+*.pem
